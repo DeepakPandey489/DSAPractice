@@ -1,0 +1,12 @@
+package practice.TwoPointer;
+
+import java.util.Arrays;
+
+public class SumOfArrayByBruteForce {
+
+	public static void main(String[] args) {
+		        int[] numbers = {71, 18, 42, 21, 67, 32, 95, 14, 56, 87};
+
+		       Arrays.stream(numbers);
+		}
+	}

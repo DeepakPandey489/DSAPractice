@@ -1,0 +1,8 @@
+package practice.TwoPointer;
+
+public class SumOfArrayByBruteForce {
+
+	public static void main(String[] args) {
+
+	}
+}

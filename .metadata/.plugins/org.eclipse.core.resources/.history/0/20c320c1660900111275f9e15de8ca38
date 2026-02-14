@@ -1,0 +1,14 @@
+package practice.TwoPointer;
+
+import java.util.Arrays;
+import java.util.stream.IntStream;
+
+public class SumOfArrayByBruteForce {
+
+	public static void main(String[] args) {
+		        int[] numbers = {1,2,3};
+
+		        int arr= {1,2,3,4,5};
+		        System.out.println(arr);
+		}
+	}

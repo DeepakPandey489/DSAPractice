@@ -1,0 +1,9 @@
+package practice.TwoPointer;
+
+public class TwoPonterPairSum {
+
+	public static void main(String[] args) {
+ 
+		int[] arr= {25,7,9};
+	}
+}

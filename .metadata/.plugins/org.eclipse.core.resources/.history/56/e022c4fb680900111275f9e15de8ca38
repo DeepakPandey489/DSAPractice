@@ -1,0 +1,17 @@
+package practice.TwoPointer;
+
+public class TwoPonterPairSum {
+
+	public static void main(String[] args) {
+ 
+		int[] arr= {2,5,7,9};
+		int low=0;
+		int high=arr.length;
+		int target=9;
+		while(low<high) {
+			if(arr[low]+arr[high]==target) {
+				
+			}
+		}
+	}
+}
