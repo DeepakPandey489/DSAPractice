@@ -1,1 +1,5 @@
 # Eclipse junk files ignore
+.metadata/
+.sonarlint/
+*.class
+*.launch
