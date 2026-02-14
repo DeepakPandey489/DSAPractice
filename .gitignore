@@ -3,3 +3,7 @@
 .sonarlint/
 *.class
 *.launch
+.metadata/
+.sonarlint/
+*.class
+*.launch
